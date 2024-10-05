@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1728050629177,
+      "tag": "0000_lazy_earthquake",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1728057358985,
+      "tag": "0001_parallel_stature",
+      "breakpoints": true
+    }
+  ]
+}
